@@ -67,10 +67,6 @@ user_groups:
 - Visitors
 ---
 
-jj
-Hi! I am Akshaya Sivakumar. 
-I am a Graduate Student in my final semester graduating in Dec 2020. I am actively looking for full time opportunities in Data Science,Machine Learning,Data warehousing,Business Intelligence and ETL development.
-2013 - I have an undergrad degree in Computer Science.
-2018 - I worked for over five years with Cognizant Technology Solutions in large scale datawarehousing projects focused on ETL development,Business Intelligence,Data analytics for US-based Insurance firms.  
-2019 - I wanted to update my skills with the latest developments in the industry and chose MIS course from UIC as it offered a mix of both management and technical courses.
-2020 - I also worked as a Data Scientist Intern building machine learning models for image and video analysis for pose estimation 
+Nelson Bighetti ddis a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
