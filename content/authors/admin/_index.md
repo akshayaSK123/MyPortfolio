@@ -67,6 +67,7 @@ user_groups:
 - Visitors
 ---
 
+jj
 Hi! I am Akshaya Sivakumar. 
 I am a Graduate Student in my final semester graduating in Dec 2020. I am actively looking for full time opportunities in Data Science,Machine Learning,Data warehousing,Business Intelligence and ETL development.
 2013 - I have an undergrad degree in Computer Science.
